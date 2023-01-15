@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AutomationTest",
+    "\\AutomationTest\\POM",
+    "\\AutomationTest\\POM\\AdminPOM",
+    "\\AutomationTest\\POM\\AdminPOM\\QuanLyDonHangPOM",
+    "\\AutomationTest\\POM\\AdminPOM\\QuanLyDonHangPOM\\ChoXacNhanPOM",
+    "\\AutomationTest\\Properties",
+    "\\AutomationTest\\TestScript",
+    "\\AutomationTest\\TestScript\\CustomerScript",
+    "\\AutomationTest\\TestScript\\CustomerScript\\HomeScript",
+    "\\AutomationTest\\TestScript\\CustomerScript\\LoginScript"
+  ],
+  "SelectedNode": "\\AutomationTest\\TestScript\\CustomerScript\\HomeScript\\CheckCategoryNameTest.cs",
+  "PreviewInSolutionExplorer": false
+}
